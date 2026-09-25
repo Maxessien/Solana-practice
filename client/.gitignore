@@ -1,1 +1,8 @@
 node_modules
+
+# Ignore Solana keypair JSON files
+*.json
+!package.json
+!tsconfig.json
+!idl.json
+!codama.json
